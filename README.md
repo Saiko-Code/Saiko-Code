@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Actuellement étudiant en BTS SIO option SISR, je suis passionné par l'informatique et le hardware depuis mon plus jeune âge. Curieux et autodidacte, j'ai également découvert la programmation, compétence que je développe à travers la réalisation de projets personnels. </h2>
 
 ###
 
