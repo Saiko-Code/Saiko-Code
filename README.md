@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je m'appelle Alexis, j'ai 21 ans et voila voila bienvenue sur ma page Github</p>
+<h2 align="left">Je m'appelle Alexis, j'ai 21 ans et voila voila bienvenue sur ma page Github</h2>
 
 ###
 
